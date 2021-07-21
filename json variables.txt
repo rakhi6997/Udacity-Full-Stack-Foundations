@@ -1,0 +1,10 @@
+"firstName":"ram"
+
+
+{"firstName":"ram","lastName":"krishna"}
+
+
+"staff": [{"firstName":"ram","lastName":"krishna"},
+          {"firstName":"sri","lastName":"krishna}
+          {"firstName":"sri","lastName":"ram"}
+		 ]
